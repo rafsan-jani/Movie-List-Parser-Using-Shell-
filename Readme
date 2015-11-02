@@ -1,0 +1,13 @@
+
+	***************************
+	* author: Md. Rafsan Jani *
+	* 			  *
+	***************************
+Follow below steps:
+1. copy all three files(MovieParser.sh, genre_list, movie_list) to your local directory
+2. execute the MovieParser.sh
+
+Output:
+1. A "Movie Lists" directory will be created
+2. The "Movie Lists" directory will also hold all the folders
+3. Check the MovieList.html file for details information.
